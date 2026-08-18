@@ -39,6 +39,20 @@ yt-dlp,
 Threading,
 PyInstaller
 
+# 🎵 Install FFmpeg First (Windows)
+
+For the best compatibility, install Gyan.FFmpeg before using Video Downloader by Adolf.
+
+Open PowerShell or Command Prompt and run:
+
+
+"  winget install Gyan.FFmpeg   "
+
+After installing check package :
+
+" ffmpeg -version "
+
+
 # 🎬 How to Use
 Open Video Downloader by Adolf.
 
